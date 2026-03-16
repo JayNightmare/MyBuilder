@@ -2,6 +2,8 @@
 
 MyBuilder is a fine-tuned Qwen2.5-Coder-1.5B-Instruct model for Minecraft structure generation. This README covers how to use your trained model through the API server.
 
+Want to see this in action? Check out the [website](https://github.com/JayNightmare/MineHelper)
+
 > [!NOTE]
 > This project is still under development and may contain bugs or incomplete features. Use with caution and report any issues you encounter.
 
