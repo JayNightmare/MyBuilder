@@ -3,7 +3,7 @@
 
 model:
         base: "Qwen/Qwen2.5-Coder-1.5B-Instruct"
-        max_seq_length: 4096
+        max_seq_length: 20000
         load_in_4bit: true
 
 lora:
