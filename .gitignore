@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Model weights (large binary files)
+models/
+
+# Generated training data
+data/dataset.jsonl
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Unsloth Files
+unsloth_compiled_cache/
